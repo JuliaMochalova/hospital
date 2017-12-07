@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\123\\Desktop\\android\\AndroidNotifications-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\123\\Desktop\\android\\AndroidNotifications-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vshir\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\vshir\\AndroidStudioProjects\\Lab6_NotificationsLab\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\123\\Desktop\\android\\Notifications\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

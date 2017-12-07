@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Thu Dec 07 22:45:02 IRKT 2017
+2.base=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\custom_notification.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.base=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+7.set=DEX
+count=11
+0.file=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\tswift.txt
+5.base=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\lgaga.txt
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\rblack.txt
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_test_front_end.xml
+10.base=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.file=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\feed.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\123\\Desktop\\android\\Notifications\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
